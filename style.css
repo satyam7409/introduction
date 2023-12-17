@@ -109,9 +109,20 @@
                 #net {
                    margin-top: 560px;
                 }
-               
+               }
 
+               @media screen and (max-width: 374px) {
+                #net {
+                   margin-top: 636px;
                 }
+               }
+               @media screen and (max-width: 355px) {
+                #skill-h {
+                   margin-top: 90px;
+                }
+               }
+               
+            
             
         
       
