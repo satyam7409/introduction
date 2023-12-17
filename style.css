@@ -9,6 +9,9 @@
   #left2 {width: 75%}
   }
 @media screen and (max-width: 1150px) {
+  #left1 {width: 75%}
+  }
+@media screen and (max-width: 1150px) {
   #left3 {width: 75%}
   }
 
@@ -69,23 +72,45 @@
         }
         @media screen and (max-width: 524px) {
           #net {
-             margin-top: 420px;
+             margin-top: 460px;
           }
+
+          #hc-p{
+            margin-bottom: 64px;
           }
+}
           @media screen and (max-width: 427px) {
             #net {
-               margin-top: 486px;
+               margin-top: 450px;
+            }
+            #hc-p{
+              font-size: 1rem;
+            }
+             #game-p  {
+              font-size: 1rem;
+            }
+             #cricket-p {
+              font-size: 1rem;
+            }
+            
+
+            #social-con {
+              width: 190px;
             }
             }
             @media screen and (max-width: 404px) {
               #net {
                  margin-top: 512px;
               }
+            
               }
-              @media screen and (max-width: 427px) {
+           
+              @media screen and (max-width: 360px) {
                 #net {
-                   margin-top: px;
+                   margin-top: 560px;
                 }
+               
+
                 }
             
         
